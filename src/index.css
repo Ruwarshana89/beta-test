@@ -1,0 +1,14 @@
+:root {
+  --beta-font: 'Inter', sans-serif;
+  --beta-primary: #0052EA;
+  --beta-white: #ffffff;
+  --beta-black: #000000;
+  --beta-da-gray: #757575;
+  --beta-li-gray: #FAFAFA;
+  --beta-gray: #E0E0E0;
+}
+
+body {
+  margin: 0;
+  font-family: var(--beta-font) !important;
+}
